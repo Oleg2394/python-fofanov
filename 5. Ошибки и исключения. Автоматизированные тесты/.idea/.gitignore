@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\Тестирование По\[Илья Фофанов] Полное руководство по Python 3 от новичка до специалиста (2020)\5. Ошибки и исключения. Автоматизированные тесты\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
